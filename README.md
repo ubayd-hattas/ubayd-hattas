@@ -1,106 +1,150 @@
 # Hi, I'm Ubayd Hattas 👋
 
-First Year Computer Science, Statistics & Data Science student at the University of Cape Town.
+**First Year Computer Science, Statistics & Data Science student at the University of Cape Town.**
 
-I'm passionate about building software and data products that solve real problems, particularly in public data, analytics and software engineering.
+I build software and data products that make complex information more accessible.
 
-Currently focused on data engineering, full stack development and building tools that make South African public data more accessible.
+I'm particularly interested in **Data Engineering**, **Software Engineering**, **AI**, and **Public Data**, with a focus on creating tools that have real-world impact rather than simply demonstrating technical skills.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 ### 🇿🇦 SA Data Hub
-A public platform making South African government data more accessible through interactive dashboards, downloadable datasets and transparent documentation.
+A public platform making South African data accessible through interactive visualisations, transparent methodologies, and educational insights.
 
 **Highlights**
-- 200+ municipalities
-- Interactive data visualisations
-- Automated update workflows
-- PostgreSQL backend
-- Public methodology and documentation
-- CSV exports
-- Modern Next.js application
 
-🔗 https://sadatahub.tech
+- 📊 Interactive dashboards across multiple official datasets
+- 🗺️ Province & municipality exploration
+- 📖 Data Insights Hub with long-form explanations
+- 🔍 Full-text search across datasets
+- 📥 Download centre with CSV exports
+- 📝 Transparent methodology & source documentation
+- ⚡ Automated data update workflows
+- 🌙 Dark / Light mode
+
+**Tech**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Recharts` `Python` `PostgreSQL` `Vercel`
+
+🔗 **Live:** https://sadatahub.tech
+
+---
+
+### 🛡️ AfriGuard
+
+A multilingual AI Safety benchmark evaluating whether frontier LLMs maintain safety guardrails across South African languages.
+
+Built during the **Global South AI Safety Hackathon** in Cape Town.
+
+**Highlights**
+
+- 🌍 7 language benchmark
+- 🤖 4 frontier LLMs
+- 📈 1,120 model evaluations
+- 📊 Interactive Streamlit dashboard
+- 🔬 Automated evaluation pipeline
+- 📄 Publication-ready visualisations
+
+Our research found that AI models considered safe in English often became dramatically less safe when harmful prompts were translated into South African languages.
+
+**Tech**
+
+`Python` `Pandas` `Streamlit` `NLP` `AI Safety` `Data Pipelines`
 
 ---
 
 ### 🌐 Personal Website
 
-A portfolio documenting my projects, technical writing and journey as a student developer.
+A modern portfolio documenting my projects, technical writing, and development journey.
 
 Features include:
 
-- Project showcase
-- Blog
-- About page
-- Contact page
-- Downloadable CV
+- 💼 Project showcase
+- ✍️ Technical blog
+- 📄 Downloadable CV
+- 📬 Contact page
+- ⚡ Optimised for SEO
+- 📱 Fully responsive
 
-🔗 https://ubayd.me
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-- TypeScript
-- Python
-- JavaScript
-- SQL
-
-**Frontend**
-
-- Next.js
-- React
-- Tailwind CSS
-
-**Backend**
-
-- PostgreSQL
-- Neon
-- Node.js
-
-**Tools**
-
-- Git
-- GitHub
-- Vercel
-- VS Code
+🔗 **Website:** https://ubayd.me
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 Currently Working On
 
-- Data Engineering
-- PostgreSQL
-- Software Architecture
-- System Design
-- Machine Learning
-- Cloud Technologies
+- Expanding **SA Data Hub** with additional datasets and engineering improvements.
+- Building stronger data engineering and backend skills.
+- Preparing for competitive software engineering internships.
+- Contributing to projects that combine AI and public data.
 
 ---
 
-## 📚 Current Focus
+## 🤝 Open to Collaborate On
 
-My current goal is building production quality software while developing strong foundations in computer science and statistics.
+I'm always interested in collaborating on projects involving
 
-I'm especially interested in:
-
-- Data Engineering
-- Software Engineering
-- AI
 - Public Data
+- Data Engineering
+- AI
+- Software Engineering
 - Open Source
+- Hackathons
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Frameworks
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+### Backend & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📈 Current Focus
+
+🎯 Build production-quality software.
+
+📚 Strengthen my foundations in Computer Science, Statistics and Data Science.
+
+🚀 Graduate with a portfolio that demonstrates real engineering experience through public products, technical writing, and open-source contributions.
 
 ---
 
 ## 📫 Connect
 
-🌍 Website: https://ubayd.me
+🌐 Website: https://ubayd.me
 
-💼 LinkedIn: (your LinkedIn)
+📊 SA Data Hub: https://sadatahub.tech
 
-🇿🇦 SA Data Hub: https://sadatahub.tech
+💼 LinkedIn: *(add your link)*
+
+📧 Email: *(add your email)*
+
+---
+
+> *"I enjoy building software that solves real problems, documenting what I learn, and continuously improving as an engineer."*
