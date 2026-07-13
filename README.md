@@ -141,9 +141,9 @@ I'm always interested in collaborating on projects involving
 
 📊 SA Data Hub: https://sadatahub.tech
 
-💼 LinkedIn: *(add your link)*
+💼 LinkedIn: https://www.linkedin.com/in/ubayd-hattas/
 
-📧 Email: *(add your email)*
+📧 Email: uhattas@gmail.com
 
 ---
 
